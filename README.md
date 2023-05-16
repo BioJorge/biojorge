@@ -2,12 +2,15 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioJorge&count_private=true&show_icons=true&theme=dark)
 
-- 🔭 I’m currently taking a online curse (www.codemaster.pt). Will finish it in May/2023
+- 👨‍💻 Junior/Trainee Full Stack Web Developer
+- 👨‍🎓 Formed by the online codemaster Full Stack Web Developer course (www.codemaster.pt)
+- 👨‍🔬 Master's degree in Health Sciences
 - 🌱 I’m currently learning HTML | CSS | JAVASCRIPT | PHP | BOOTSTRAP | SQL
 - 👯 I’m looking to collaborate on any IT project 🙃
 - 🤔 I’m looking for help get my first IT career experience
 - 💬 Ask me about anything, I don't bite 😊
 - 📫 How to reach me: https://www.linkedin.com/in/jorge-carlos-sousa-filho-5310861a3/
+- 📫 How to reach me: https://jorgesousafilho.pt/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a vet trying to become a Web Developer
 
