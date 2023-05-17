@@ -5,7 +5,9 @@
 - 👨‍💻 Junior/Trainee Full Stack Web Developer
 - 👨‍🎓 Formed by the online codemaster Full Stack Web Developer course (www.codemaster.pt)
 - 👨‍🔬 Master's degree in Health Sciences
-- 🌱 I’m currently learning HTML | CSS | JAVASCRIPT | PHP | BOOTSTRAP | SQL
+- 💻 Languages:  HTML | CSS | JAVASCRIPT | PHP | SQL | JAVA
+- 📚 Libraries: React
+- 🔧 Frameworks: BOOTSTRAP
 - 👯 I’m looking to collaborate on any IT project 🙃
 - 🤔 I’m looking for help get my first IT career experience
 - 💬 Ask me about anything, I don't bite 😊
